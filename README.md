@@ -94,10 +94,11 @@ The following classification algorithms were trained and evaluated:
 
 | Model | Accuracy |
 |--------|----------|
-| Logistic Regression | **78.46%** |
-| Random Forest | **78.46%** |
-| Support Vector Machine | 67.07% |
-| K-Nearest Neighbors | 63.82% |
+| Logistic Regression | **78.86%** |
+| Random Forest | **78.05%** |
+| Support Vector Machine | 79.67% |
+| K-Nearest Neighbors | 79.67% |
+| Naive Bayes | 78.86% |
 
 ---
 
